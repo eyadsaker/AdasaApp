@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;600;700;800&display=swap');
+@import "tailwindcss";
+
+body {
+  font-family: "Tajawal", sans-serif;
+}
+
+.linear {
+  background: linear-gradient(to right, #F76F13, #EC5C0C);
+  padding: 16px 32px;
+  
+}
